@@ -1,0 +1,17 @@
+{
+  "name": "farmbot_chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "farmbot": "^3.7.3",
+    "irc": "^0.5.2"
+  }
+}
