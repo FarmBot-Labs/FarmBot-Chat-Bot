@@ -4,14 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "atob": "^2.0.3",
     "axios": "^0.16.1",
-    "farmbot": "^3.7.3",
+    "farmbot": "^3.8.0",
     "irc": "^0.5.2"
   }
 }
