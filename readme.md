@@ -13,10 +13,10 @@ Control FarmBot via IRC
 # Usage
 
 1. Join `#farmbot_example` on `irc.freenode.net` using an IRC client.
-2. Look for `potato_tornado` (you can change this).
+2. Look for `potato_tornado` (you can change this nickname).
 3. say `up` in the channel.
 4. Z axis should move up by 7 steps.
 5. EXTRA CREDIT: Add commands of your own!
-6. EXTRA CREDIT: Refactor the code into multiple files.
+6. EXTRA CREDIT: Refactor the code into multiple files/modules.
 
 

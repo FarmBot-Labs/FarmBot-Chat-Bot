@@ -34,7 +34,7 @@ axios
         client.addListener('message', function (from, to, message) {
           if (message.startsWith("up")) {
             bot
-              .moveRelative({ x: 7, y: 0, z: 0 })
+              .moveRelative({ x: 0, y: 0, z: 7 })
               .then(() => console.log("MOVING!!!"))
               .catch(() => console.log("CANT MOVE T_T"));
           }
